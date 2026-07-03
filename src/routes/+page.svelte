@@ -9,8 +9,26 @@
 </script>
 
 <svelte:head>
-  <title>Mastertennis | Max Wenzel - Tennistrainer</title>
-  <meta name="description" content="Professionelles Tennistraining für schnelle Fortschritte. Privat- und Gruppentraining in Wörth am Main und Nieder Roden." />
+    <!-- Standard SEO -->
+    <title>Max Wenzel | Professionelles Tennistraining in Wörth & Nieder Roden</title>
+    <meta name="description" content="Individuelles Tennistraining für alle Alters- und Leistungsklassen mit Max Wenzel. Einzel- & Gruppentraining beim TC Wörth am Main und TC Nieder Roden. Jetzt Probetraining vereinbaren!" />
+    
+    <!-- Meta Keywords -->
+    <meta name="keywords" content="Tennistrainer, Tennis, Training, Einzelunterricht, TC Wörth am Main, TC Nieder Roden, Tennisschule" />
+
+    <!-- Open Graph / Facebook / WhatsApp -->
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://mastertennis.de/" />
+    <meta property="og:title" content="Max Wenzel | Professionelles Tennistraining" />
+    <meta property="og:description" content="Individuelles Tennistraining beim TC Wörth am Main und TC Nieder Roden. Verbessere deine Technik und Ausdauer auf dem Platz!" />
+    <meta property="og:image" content="https://mastertennis.de/profile.png" />
+
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:url" content="https://mastertennis.de/" />
+    <meta name="twitter:title" content="Max Wenzel | Professionelles Tennistraining" />
+    <meta name="twitter:description" content="Individuelles Tennistraining beim TC Wörth am Main und TC Nieder Roden." />
+    <meta name="twitter:image" content="https://mastertennis.de/profile.png" />
 </svelte:head>
 
 <div class="font-sans antialiased bg-dark-bg text-text-main selection:bg-neon-orange selection:text-white">
