@@ -6,8 +6,13 @@
   <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
     <div class="flex items-center justify-between h-20">
       <div class="flex-shrink-0">
-        <a href="{base}/" class="text-3xl font-black text-white tracking-tighter uppercase italic">
-          Master<span class="text-neon-orange">tennis</span>
+        <a href="{base}/" class="flex flex-col justify-center group">
+          <span class="text-3xl font-black text-white tracking-tighter uppercase italic leading-none">
+            Master<span class="text-neon-orange">tennis</span>
+          </span>
+          <span class="text-[9px] text-volt-yellow uppercase tracking-widest font-bold mt-1 block">
+            Verstehen. Trainieren. Dominieren.
+          </span>
         </a>
       </div>
       <div class="hidden md:block">
