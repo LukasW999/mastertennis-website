@@ -12,7 +12,7 @@
       </p>
     </div>
 
-    <div class="grid grid-cols-1 md:grid-cols-2 gap-8 max-w-4xl mx-auto">
+    <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
       <!-- Einzeltraining -->
       <div class="bg-dark-surface p-10 border border-white/10 hover:border-neon-orange transition-colors group">
         <div class="text-neon-orange mb-6">
@@ -23,7 +23,7 @@
           Maximale Intensität und 100% Fokus auf dein Spiel. Perfekt um spezifische Schwächen in Stärken zu verwandeln.
         </p>
         <div class="text-4xl font-black text-volt-yellow">
-          40 € <span class="text-lg text-text-muted font-normal">/ Stunde</span>
+          35 € <span class="text-lg text-text-muted font-normal">/ Stunde</span>
         </div>
       </div>
 
@@ -37,9 +37,23 @@
           Dynamisches Training mit Partnern. Match-Situationen, Drills und Spaß in einer motivierenden Umgebung.
         </p>
         <div class="text-4xl font-black text-volt-yellow">
-          40 € <span class="text-lg text-text-muted font-normal">/ Stunde *</span>
+          35 € <span class="text-lg text-text-muted font-normal">/ Stunde *</span>
         </div>
         <p class="text-xs text-text-muted mt-2">* Preis kann unter den Teilnehmern aufgeteilt werden.</p>
+      </div>
+
+      <!-- Vereinstraining -->
+      <div class="bg-dark-surface p-10 border border-white/10 hover:border-volt-yellow transition-colors group">
+        <div class="text-volt-yellow mb-6">
+          <svg class="w-12 h-12" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 21V5a2 2 0 00-2-2H7a2 2 0 00-2 2v16m14 0h2m-2 0h-5m-9 0H3m2 0h5M9 7h1m-1 4h1m4-4h1m-1 4h1m-5 10v-5a1 1 0 011-1h2a1 1 0 011 1v5m-4 0h4"></path></svg>
+        </div>
+        <h3 class="text-3xl font-black text-white uppercase mb-4 group-hover:text-volt-yellow transition-colors">Vereinstraining</h3>
+        <p class="text-text-muted mb-8 min-h-[80px]">
+          Maßgeschneiderte Konzepte für Vereine: Jugendförderung, Mannschaftstraining und Feriencamps.
+        </p>
+        <div class="text-4xl font-black text-volt-yellow">
+          Auf Anfrage
+        </div>
       </div>
     </div>
   </div>

@@ -36,6 +36,7 @@
             <option value="" disabled selected>Bitte wählen...</option>
             <option value="Einzeltraining">Einzeltraining</option>
             <option value="Gruppentraining">Gruppentraining</option>
+            <option value="Vereinstraining">Vereinstraining</option>
           </select>
         </div>
         <div>
