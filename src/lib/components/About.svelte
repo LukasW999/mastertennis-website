@@ -1,4 +1,5 @@
 <script lang="ts">
+  import { base } from '$app/paths';
 </script>
 
 <section id="about" class="py-24 bg-dark-surface border-t border-white/5">
@@ -6,7 +7,7 @@
     <div class="grid grid-cols-1 md:grid-cols-2 gap-16 items-center">
       <div class="relative">
         <div class="absolute inset-0 bg-neon-orange translate-x-4 translate-y-4 z-0"></div>
-        <img src="https://images.unsplash.com/photo-1589801258579-18e091f4ca26?q=80&w=800&auto=format&fit=crop" alt="Max Wenzel - Tennistrainer" class="relative z-10 w-full h-auto grayscale hover:grayscale-0 transition-all duration-500 object-cover aspect-[4/5]" />
+        <img src="{base}/profile.png" alt="Max Wenzel - Tennistrainer" class="relative z-10 w-full h-auto grayscale hover:grayscale-0 transition-all duration-500 object-cover aspect-[4/5]" />
       </div>
       
       <div>
