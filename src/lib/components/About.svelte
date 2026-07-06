@@ -1,13 +1,35 @@
 <script lang="ts">
   import { base } from '$app/paths';
+  import { onMount } from 'svelte';
+
+  const images = [
+    `${base}/profile1.jpeg`,
+    `${base}/profile2.jpeg`,
+    `${base}/profile3.jpeg`
+  ];
+  let currentImageIndex = $state(0);
+
+  onMount(() => {
+    const interval = setInterval(() => {
+      currentImageIndex = (currentImageIndex + 1) % images.length;
+    }, 4000);
+    return () => clearInterval(interval);
+  });
 </script>
 
 <section id="about" class="py-24 bg-dark-surface border-t border-white/5">
   <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
     <div class="grid grid-cols-1 md:grid-cols-2 gap-16 items-center">
-      <div class="relative">
+      <div class="relative w-full aspect-[4/5]">
         <div class="absolute inset-0 bg-neon-orange translate-x-4 translate-y-4 z-0"></div>
-        <img src="{base}/profile.png" alt="Max Wenzel - Tennistrainer" class="relative z-10 w-full h-auto object-cover aspect-[4/5]" />
+        {#each images as image, i}
+          <img 
+            src={image} 
+            alt="Max Wenzel - Tennistrainer" 
+            class="absolute top-0 left-0 z-10 w-full h-full object-cover transition-opacity duration-1000"
+            style="opacity: {currentImageIndex === i ? 1 : 0}; pointer-events: {currentImageIndex === i ? 'auto' : 'none'};"
+          />
+        {/each}
       </div>
       
       <div>
