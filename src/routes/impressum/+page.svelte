@@ -4,6 +4,7 @@
 </script>
 
 <svelte:head>
+  <meta name="robots" content="noindex, nofollow">
   <title>Impressum | Mastertennis</title>
 </svelte:head>
 
@@ -19,8 +20,8 @@
         <h3>Postanschrift</h3>
         <p class='generator_user_input'>63533 Mainhausen, Erzbergerstraße 6</p>
         <h3>Kontakt</h3>
-        <p>E-Mail: mastertennis26@gmail.com</p>
-        <p>Telefon: 015255321843</p>
+        <p>E-Mail: mastertennis26 [at] gmail [punkt] com</p>
+        <p>Telefon: 0152 - 55 32 18 43</p>
         <h2>Berufshaftpflichtversicherung</h2>
         <p class='generator_user_input'>Baloise Sachversicherung AG Deutschland<br />
         Basler Straße 4<br />
