@@ -33,7 +33,7 @@
         <p class='generator_user_input'>https://weiss-blau-woerth.de<br />
         https://1tcn.de</p>
         <h3>Verantwortlich für journalistisch-redaktionelle Inhalte</h3>
-        <p class='generator_user_input'>[Bitte Informationen ergänzen]</p>
+        <p class='generator_user_input'>Max Wenzel<br />63533 Mainhausen, Erzbergerstraße 6</p>
         <h2>Information gemäß § 36 VSBG</h2>
         <p>Gemäß § 36 VSBG (Verbraucherstreitbeilegungsgesetz – Gesetz über die alternative Streitbeilegung in Verbrauchersachen) erklärt der Betreiber dieser Website:</p>
         <p>Wir sind weder bereit noch verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.</p>
