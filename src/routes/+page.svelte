@@ -10,24 +10,25 @@
 
 <svelte:head>
     <!-- Standard SEO -->
-    <title>Max Wenzel | Professionelles Tennistraining in Wörth & Nieder Roden</title>
+    <title>MASTERTENNIS | Max Wenzel - Professionelles Tennistraining</title>
     <meta name="description" content="Individuelles Tennistraining für alle Alters- und Leistungsklassen mit Max Wenzel. Einzel- & Gruppentraining beim TC Wörth am Main und TC Nieder Roden. Jetzt Probetraining vereinbaren!" />
     
     <!-- Meta Keywords -->
     <meta name="keywords" content="Tennistrainer, Tennis, Training, Einzelunterricht, TC Wörth am Main, TC Nieder Roden, Tennisschule" />
 
     <!-- Open Graph / Facebook / WhatsApp -->
+    <meta property="og:site_name" content="MASTERTENNIS" />
     <meta property="og:type" content="website" />
     <meta property="og:url" content="https://mastertennis.de/" />
-    <meta property="og:title" content="Max Wenzel | Professionelles Tennistraining" />
-    <meta property="og:description" content="Individuelles Tennistraining beim TC Wörth am Main und TC Nieder Roden. Verbessere deine Technik und Ausdauer auf dem Platz!" />
+    <meta property="og:title" content="MASTERTENNIS | Max Wenzel - Professionelles Tennistraining" />
+    <meta property="og:description" content="Verstehen, trainieren, dominieren. Individuelles Tennistraining beim TC Wörth am Main und TC Nieder Roden." />
     <meta property="og:image" content="https://mastertennis.de/profile.png" />
 
     <!-- Twitter -->
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:url" content="https://mastertennis.de/" />
-    <meta name="twitter:title" content="Max Wenzel | Professionelles Tennistraining" />
-    <meta name="twitter:description" content="Individuelles Tennistraining beim TC Wörth am Main und TC Nieder Roden." />
+    <meta name="twitter:title" content="MASTERTENNIS | Max Wenzel" />
+    <meta name="twitter:description" content="Verstehen, trainieren, dominieren." />
     <meta name="twitter:image" content="https://mastertennis.de/profile.png" />
 </svelte:head>
 
