@@ -40,22 +40,6 @@
             >TC Weiß-Blau Wörth</span
           >
         </div>
-
-        <div class="flex flex-col items-center group">
-          <div
-            class="w-40 h-40 bg-white rounded-full flex items-center justify-center p-6 border-4 border-transparent group-hover:border-neon-orange transition-colors shadow-lg mb-6"
-          >
-            <!-- Platzhalter für das Logo: Speichere das Bild als static/tc-nieder-roden.png ab -->
-            <img
-              src="{base}/tc-nieder-roden.png"
-              alt="TC Nieder Roden"
-              class="w-full h-full object-contain"
-            />
-          </div>
-          <span class="text-xl font-black text-white uppercase tracking-wide"
-            >1. TC Nieder-Roden</span
-          >
-        </div>
       </div>
     </div>
 
