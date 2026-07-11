@@ -31,7 +31,6 @@
         <h2>Hinweise zur Website</h2>
         <h3>Urheberrechtliche Hinweise</h3>
         <p class='generator_user_input'>https://weiss-blau-woerth.de<br />
-        https://1tcn.de</p>
         <h3>Verantwortlich für journalistisch-redaktionelle Inhalte</h3>
         <p class='generator_user_input'>Max Wenzel<br />63533 Mainhausen, Erzbergerstraße 6</p>
         <h2>Information gemäß § 36 VSBG</h2>
