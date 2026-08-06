@@ -2,6 +2,7 @@
   import Navigation from '$lib/components/Navigation.svelte';
   import Hero from '$lib/components/Hero.svelte';
   import About from '$lib/components/About.svelte';
+  import Licenses from '$lib/components/Licenses.svelte';
   import Services from '$lib/components/Services.svelte';
   import Testimonials from '$lib/components/Testimonials.svelte';
   import Contact from '$lib/components/Contact.svelte';
@@ -38,6 +39,7 @@
   <main>
     <Hero />
     <About />
+    <Licenses />
     <Services />
     <Testimonials />
     <Contact />
