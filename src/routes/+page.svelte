@@ -20,7 +20,7 @@
   <!-- Meta Keywords -->
   <meta
     name="keywords"
-    content="Tennistrainer, Tennis, Training, Einzelunterricht, TC Wörth am Main, TC Nieder Roden, Tennisschule"
+    content="Tennistrainer, Tennis, Training, Einzelunterricht, TC Wörth am Main, Tennisschule"
   />
 
   <!-- Open Graph / Facebook / WhatsApp / Socials  -->
