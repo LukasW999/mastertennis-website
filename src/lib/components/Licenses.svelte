@@ -6,7 +6,7 @@
     { name: "Bodybuilding", level: "A-Lizenz", colorClass: "text-volt-yellow", borderHoverClass: "hover:border-volt-yellow", bgClass: "bg-volt-yellow/10", borderClass: "border-volt-yellow/20" },
     { name: "Fitnesstraining", level: "A-Lizenz", colorClass: "text-volt-yellow", borderHoverClass: "hover:border-volt-yellow", bgClass: "bg-volt-yellow/10", borderClass: "border-volt-yellow/20" },
     { name: "Sporternährung", level: "B-Lizenz", colorClass: "text-neon-orange", borderHoverClass: "hover:border-neon-orange", bgClass: "bg-neon-orange/10", borderClass: "border-neon-orange/20" },
-    { name: "Tennis Trainer", level: "C-Lizenz", colorClass: "text-bright-cyan", borderHoverClass: "hover:border-bright-cyan", bgClass: "bg-bright-cyan/10", borderClass: "border-bright-cyan/20" }
+    { name: "Tennis Trainer", level: "Assistenztrainer", colorClass: "text-bright-cyan", borderHoverClass: "hover:border-bright-cyan", bgClass: "bg-bright-cyan/10", borderClass: "border-bright-cyan/20" }
   ];
 </script>
 
